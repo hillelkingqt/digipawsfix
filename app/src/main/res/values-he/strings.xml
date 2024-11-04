@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">DigiPaws</string>
+    <string name="start">התחל</string>
+    <string name="stop">עצור</string>
+    <string name="missing_permission">חסרה הרשאה</string>
+    <string name="settings">הגדרות</string>
+    <string name="info">מידע</string>
+    <string name="close">סגור</string>
+    <string name="proceed">המשך</string>
+    <string name="buy_20_mins">רכוש 20 דקות</string>
+    <string name="desc_sd_overlay">האם תרצה לרכוש 20 דקות של בזבוז זמן תמורת 1 אאורה? הרכישה תבטל את כל המגבלות על אפליקציה או פריט זה למשך 20 הדקות הבאות.</string>
+    <string name="no_coins_title">אין מספיק אאורה</string>
+    <string name="desc_no_coins_overlay">אין לך אאורה לבזבז זמן. בצע משימה כדי להרוויח אאורה עכשיו!</string>
+    <string name="desc_ex_overlay">האם אתה בטוח שברצונך להמשיך לבזבז את זמנך, להתבזבז בחשכת יצירתך?</string>
+    <string name="breathe">קח נשימה עמוקה!!!</string>
+    <string name="warning_title">האם אתה בטוח?</string>
+    <string name="notification_accessibility_permission">שירותי נגישות נדרשים להפעלת חוסמים.</string>
+    <string name="notification_overlay_permission">הענק הרשאת כיסוי כדי להציב אזהרות על גבי פריטים חסומים. (הנתונים שלך נשארים במכשיר שלך ולא מועברים לשום מקום אחר.)</string>
+    <string name="notification_notif_permission">הענק הרשאת התראות כדי לקבל עדכוני משימות.</string>
+    <string name="notification_location_permission">הענק הרשאת מיקום מדויקת כדי לעקוב אחר מיקום עבור משימות. (הנתונים שלך נשארים במכשיר שלך ולא מועברים לשום מקום אחר.)</string>
+    <string name="notification_camera_permission">הענק הרשאת מצלמה כדי לעקוב אחר מיקום ולספור חזרות עבור משימות. (הנתונים שלך נשארים במכשיר שלך ולא מועברים לשום מקום אחר.)</string>
+    <string name="notification_marathon_title">משימת מרתון מתבצעת</string>
+    <string name="select_quest">בחר משימה</string>
+    <string name="welcome">ברוכים הבאים</string>
+    <string name="app_desc">DigiPaws היא תוכנה חופשית בקוד פתוח לפתרון התמכרות למסך על ידי ויסות השימוש באפליקציות באמצעות חוויה משחקית. קל, הרפתקה וקשה - כל אחד עם תכונות ואתגרים ייחודיים לקידום הרגלים בריאים.</string>
+    <string name="easy_mode">מצב קל</string>
+    <string name="easy_mode_desc">גישה לאפליקציות חסומות נותנת רק אזהרות עדינות. זה חוזר על עצמו כדי לשמור אותך כנה בניהול זמן המסך.</string>
+    <string name="adventure_mode">מצב הרפתקה (ניסיוני)</string>
+    <string name="adventure_mode_desc">ההטיה היא בקרבת מקום של הליכה מהירה של ק"מ, שיכולה להיות מרחק בטוח. דורש אאורה שנצברה דרך משימות כדי לגשת לאפליקציה חסומה למשך 20 דקות. עם כל משימה, הקושי עולה.</string>
+    <string name="hard_mode">מצב קשה</string>
+    <string name="hard_mode_desc">מונע לחלוטין שימוש באפליקציות חסומות.</string>
+    <string name="block_vb_title">מה תרצה לחסום?</string>
+    <string name="block_shorts_cb">חסום סרטונים קצרים</string>
+    <string name="block_comments_cb">חסום תגובות (ניסיוני)</string>
+    <string name="block_porn_cb">חסום מילות מפתח (ניסיוני)</string>
+    <string name="block_vb_desc">פלטפורמות נתמכות: YouTube, Instagram, ReVanced, TikTok.</string>
+    <string name="anti_uninstall_title">#TechRehab</string>
+    <string name="anti_uninstall_cb">הפעל את TechRehab</string>
+    <string name="anti_reboot_cb">מנע סגירת מכשיר בכפייה (ניסיוני)</string>
+    <string name="anti_uninstall_desc">#אתגר פרודוקטיביות קפדני של 3 שבועות לבניית הרגל. במהלך תקופה זו, לא תוכל לשנות את האפליקציה או להסיר את DigiPaws.</string>
+    <string name="anti_uninstall_desc_day">ימים חזקים!!!</string>
+    <string name="mode">מצב</string>
+    <string name="choose_mode">בחר מצב</string>
+    <string name="loading">טוען</string>
+    <string name="choose_delay_title">באיזו תדירות?</string>
+    <string name="choose_delay_desc">ציין זמן צינון מותאם אישית בין כל אזהרה. זה לא זמין עבור מצב הרפתקה.</string>
+    <string name="acc_desc">אנא כבה והפעל מחדש אם השירות מתקלקל. כדי להחיל שינויי תצורה, כבה והפעל.</string>
+    <string name="choose_blocked_apps_title">תצורת חוסם אפליקציות</string>
+    <string name="choose_blocked_apps_desc">בחר את האפליקציות שברצונך לחסום או לקבל אזהרות שימוש עבורן.</string>
+    <string name="choose_whitelist_apps">אפליקציות ברשימה אפורה</string>
+    <string name="choose_whitelist_apps_desc">בחר אפליקציות שיאושרו במהלך מצב פוקוס. מצב פוקוס הוא משימה שבה לא ניתן לגשת לאף אחת מהאפליקציות האלה למשך פרק זמן רצוי. לא ניתן לעצור את המשימה הזו לאחר שהחלה.</string>
+    <string name="perm_quest_manager_label">משימות DigiPaws</string>
+    <string name="perm_quest_manager_desc">לפ
+עול כמשימה ולשנות את ספירת האאורה?</string>
+    <string name="pckc">מצלמה</string>
+    <string name="marathon_desc">צא מהאזור האדום שלמעלה כדי לנצח במשימה זו. אין עונש על כישלון במשימה זו. אל תשכח לקחת את הטלפון שלך!</string>
+    <string name="squats_desc">$valuex סקוואטים מרוויחים נקודת אאורה אחת. בצע את המשימה הזו בסטים של כל דבר. ודא שכל הגוף שלך נראה במצלמה למעלה. לא עובד?</string>
+    <string name="pushups_desc">$valuex שכיבות סמיכה מרוויחות נקודת אאורה אחת. בצע את המשימה הזו בסטים של כל דבר. ודא שכל הגוף שלך נראה במצלמה למעלה. לא עובד?</string>
+    <string name="focus_desc">מצב פוקוס או הישרדות חוסם את כל האפליקציות מלבד צרכים בסיסיים כמו שיחות ו-SMS למשך 90 הדקות הבאות. המשימה שהושלמה מעניקה 1 אאורה, ולא ניתן לכבות אותה.</string>
+    <string name="aura_earned_1">הרווחת מטבע אאורה אחד</string>
+    <string name="tac">בהמשך, אתה מסכים לתנאים וההגבלות שלנו.</string>
+    <string name="accessibility_perm">דרוש מידע נגישות עבור העדפות המבוססות על שימוש בתכונות ספציפיות בתוך אפליקציות חסומות, כגון הזנת מדיה חברתית או משחק.
+ \n\n
+        (הנתונים שלך נשארים במכשיר שלך ולא מועברים לשום מקום אחר.)
+    </string>
+    <string name="choose_msg_title">מסך אזהרה</string>
+    <string name="battery_optimisation_title">כבה את אופטימיזציית הסוללה</string>
+    <string name="battery_optimisation_desc">עוזר לאפליקציה לפעול תמיד בעת הצורך.</string>
+    <string name="congratulate_text_challenge_comp">מזל טוב על כיבוש #TechRehab! 21 הימים של מחויבות שלך הם באמת מעוררי השראה. המשך לזרוח! 🌟</string>
+    <string name="congratulate_text_challenge_incomp">אתה עושה דברים מדהימים במסע #TechRehab שלך! המשך להתחזק - כל צעד נחשב! 🫵👑</string>
+    <string name="title">כותרת</string>
+    <string name="description">תיאור</string>
+    <string name="shorts_allow_first_shorts_title">אפשר פתיחת רילס, אך חסום גלילה (ניסיוני)</string>
+    <string name="enter_safe_mode_title">לחץ על "דקות" עשר פעמים כדי לסגור בכוח את מצב הפוקוס.</string>
+
+</resources>
